@@ -30,11 +30,4 @@ Run in headed mode:
 
 ```bash
 npm run test:headed
-
-
-
-
-You can submit either:
-
-- the raw code file: `tests/contact-us.spec.js`
-- or a GitHub repository link containing this project and this README
+```
